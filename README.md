@@ -27,20 +27,20 @@ python ML_model.py
 - **Run the Streamlit UI**
 streamlit run Fraud_Detection_UI.py
 
-Dataset Details
+## Dataset Details
 The dataset (FraudTrainData.csv) consists of:
+- **Transaction Amount**
+- **Merchant Details**
+- **User History**
+- **Fraudulent Label (0 = Legit, 1 = Fraudulent)**
+  
+## 🧠 ML Model Details
+- **✔ Algorithm: Random Forest Classifier**
+- **✔ Target Variable: Fraud Label (0/1)**
+- **✔ Performance Metrics: Accuracy, Precision, Recall**
 
-Transaction Amount
-Merchant Details
-User History
-Fraudulent Label (0 = Legit, 1 = Fraudulent)
-🧠 ML Model Details
-✔ Algorithm: Random Forest Classifier
-✔ Target Variable: Fraud Label (0/1)
-✔ Performance Metrics: Accuracy, Precision, Recall
-
-🎯 Future Improvements
-Enhance model performance with hyperparameter tuning
-Integrate deep learning techniques for better fraud detection
-Deploy using AWS/GCP for scalability
+## 🎯 Future Improvements
+- **Enhance model performance with hyperparameter tuning**
+- **Integrate deep learning techniques for better fraud detection**
+- **Deploy using AWS/GCP for scalability**
 
