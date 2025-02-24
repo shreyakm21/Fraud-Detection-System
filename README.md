@@ -21,10 +21,10 @@ A Machine Learning-powered fraud detection system built using Random Forest Clas
 - **│── README.md                 # Project documentation**
 
 ## How to Run the Project
-- **Train the ML Model (If not pre-trained) : **
+- **Train the ML Model (If not pre-trained) :**
 python ML_model.py
 
-- **Run the Streamlit UI : **
+- **Run the Streamlit UI :**
 streamlit run Fraud_Detection_UI.py
 
 ## Dataset Details
