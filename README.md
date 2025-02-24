@@ -14,11 +14,7 @@ A Machine Learning-powered fraud detection system built using Random Forest Clas
 - **Dataset:** Includes transaction details with fraud labels  
 
 ## 📂 Project Structure
-│── fraud_model.py            # ML model (Random Forest Classifier)
-│── streamlit_ui.py           # Streamlit-based UI
-│── dataset.csv               # Training dataset
-│── requirements.txt          # Required Python libraries
-│── README.md                 # Project documentation
+Fraud-Detection-System/ ├── fraud_model.py # ML model (Random Forest Classifier) ├── streamlit_ui.py # Streamlit-based UI ├── dataset.csv # Training dataset ├── requirements.txt # Required Python libraries └── README.md # Project documentation
 
 ## How to Run the Project
 - **Train the ML Model (If not pre-trained)**
